@@ -1,7 +1,7 @@
 # philips-hue-postman
 Postman API collection for Philips Hue Lighting system
 
-A set of example HTTP requests for use with POSTman for hitting the Philips Hue Bridge APIs
+A set of example HTTPS requests for use with POSTman for hitting the Philips Hue Bridge APIs
 
 * Lights
 * Groups
